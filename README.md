@@ -6,3 +6,9 @@
 <h3 align='center'>Asset Repository</h3>
 </header>
 
+
+
+
+## Copyright
+
+Copyright &copy; 2023 [Suell](https://www.suell.org/) a [Scape Ventures](https://www.scape.ventures/) brand. All Rights Reserved.
