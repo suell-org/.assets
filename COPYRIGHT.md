@@ -1,1 +1,3 @@
-Copyright &copy; 2023 [Suell](https://www.suell.org/), a [Scape Ventures](https://www.scape.ventures/) brand. All Rights Reserved.
+# Copyright
+
+Copyright &copy; 2023 [Suell](https://www.suell.org/ "Suell website"). All Rights Reserved.
